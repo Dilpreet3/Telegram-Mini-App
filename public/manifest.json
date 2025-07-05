@@ -1,0 +1,21 @@
+{
+  "name": "FreeFokat",
+  "short_name": "FreeFokat",
+  "description": "Earn rewards with offers and referrals",
+  "icons": [
+    {
+      "src": "/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    }
+  ],
+  "theme_color": "#4a6bff",
+  "background_color": "#ffffff",
+  "display": "standalone",
+  "start_url": "/"
+}
